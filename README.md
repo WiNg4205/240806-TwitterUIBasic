@@ -1,1 +1,2 @@
-# 240806-TwitterUIBasic
+# 06/08/24 - TwitterUIBasic
+This is the twitter/X UI with a sidebar that links to routes with no context and also the 'For you' and 'Following' items on the homepage. There is conditional rendering of styling on click and hover.

@@ -20,8 +20,8 @@ const SideBar = () => {
           <SideBarItems icon={faRectangleList} label="Lists" link="/user/lists" />
           <SideBarItems icon={faBookmark} label="Bookmarks" link="/i/bookmarks" />
           <SideBarItems icon={faUserGroup} label="Communities" link="/user/communities/explore" />
-          <SideBarItems icon={faXTwitter} label="Premium" link="/i/premium/sign_up" />
-          <SideBarItems icon={faBoltLightning} label="Verified Orgs" link="i/verified-orgs-signup" />
+          <SideBarItems icon={faXTwitter} label="Premium" link="/i/premium_sign_up" />
+          <SideBarItems icon={faBoltLightning} label="Verified Orgs" link="/i/verified-orgs-signup" />
           <SideBarItems icon={faUser} label="Profile" link="/user" />
           <SideBarItems icon={faCommentDots} label="More" />
         </div>

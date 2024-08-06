@@ -1,12 +1,12 @@
 import SideBar from "../components/SideBar"
-import Feed from "../components/Feed"
+import EmptyContent from "../components/EmptyContent"
 import Trending from "../components/Trending"
 
 const BlankPage = ({ page }) => {
   return (
     <div className="flex justify-center bg-black">
       <SideBar />
-      <Feed />
+      <EmptyContent />
       <Trending />
     </div>
   )
