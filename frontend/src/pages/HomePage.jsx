@@ -4,7 +4,7 @@ import Trending from "../components/Trending"
 
 const HomePage = () => {
   return (
-    <div className="flex justify-center bg-black h-screen w-screen">
+    <div className="flex justify-center bg-black">
       <SideBar />
       <Feed />
       <Trending />
